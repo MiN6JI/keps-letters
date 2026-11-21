@@ -1,0 +1,11 @@
+// Deliberately plain: this is a document tool, not a dashboard.
+.page-pad { padding: 18px; max-width: 1180px; margin: 0 auto; }
+.muted { color: #7a8699; }
+.small { font-size: 12px; }
+.mono  { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+.card-soft { background: #fff; border: 1px solid #e8ebf0; border-radius: 8px; padding: 16px; margin-bottom: 14px; }
+.tag { display: inline-block; padding: 1px 6px; margin-left: 6px; border-radius: 4px;
+       background: #eef5fc; color: #1D75BC; font-size: 11px; vertical-align: middle; }
+.tag--danger { background: #fdecea; color: #b03a2e; }
+.row-actions { display: inline-flex; gap: 6px; align-items: center; white-space: nowrap; }
